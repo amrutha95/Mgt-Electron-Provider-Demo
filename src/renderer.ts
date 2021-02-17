@@ -23,9 +23,7 @@ Providers.globalProvider = new ElectronProvider();
 Providers.globalProvider.onStateChanged(async (e) => {
   if (Providers.globalProvider.state === ProviderState.SignedIn) {
     checkPresence();
-  } else if (Providers.globalProvider.state === ProviderState.SignedOut) {
-    location.reload();
-  }
+  } \
 });
 
 async function checkPresence() {
