@@ -21,6 +21,7 @@ async function createWindow() {
     webPreferences: {
       nodeIntegration: true,
     },
+    icon: path.join(__dirname, '../assets/icons/clipboard.png'),
     width: 800,
   });
   const cachePath = './data/cache.json'; //Change this if needed
