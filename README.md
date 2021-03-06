@@ -30,6 +30,3 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 - [Microsoft Graph Toolkit GitHub repository](https://github.com/microsoftgraph/microsoft-graph-toolkit)
 
-## License
-
-[CC0 1.0 (Public Domain)](LICENSE.md)
