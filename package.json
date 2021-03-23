@@ -35,10 +35,9 @@
     "webpack-cli": "^4.5.0"
   },
   "dependencies": {
-    "@azure/msal-node-extensions": "^1.0.0-alpha.4",
-    "@microsoft/mgt-components": "^2.1.0-preview.f66db69",
-    "@microsoft/mgt-electron-provider": "^2.1.0-preview.f66db69",
-    "@microsoft/mgt-element": "^2.1.0-preview.f66db69",
+    "@microsoft/mgt-components": "^2.1.0",
+    "@microsoft/mgt-electron-provider": "^2.1.0",
+    "@microsoft/mgt-element": "^2.1.0",
     "cross-env": "^7.0.3",
     "custom-electron-titlebar": "^3.2.6",
     "electron-reload": "^1.5.0",
